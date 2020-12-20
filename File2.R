@@ -1,0 +1,1 @@
+print("Second script created in RStudiox")
